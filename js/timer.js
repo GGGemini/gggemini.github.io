@@ -1,6 +1,6 @@
 let timer = document.getElementById("timer");
 
-const startDate = new Date(2020, 1, 13, 0);
+const startDate = new Date(2023, 1, 20, 0);
 const timeTick = 1000;
 
 let leapYearMonthDays, yearMonthDays, yearsMonthDays;
